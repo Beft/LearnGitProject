@@ -38,15 +38,15 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(116, 59);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Commit";
+            this.button1.Text = "Mistress";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(113, 156);
+            this.textBox1.Location = new System.Drawing.Point(81, 155);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(100, 20);
+            this.textBox1.Size = new System.Drawing.Size(116, 20);
             this.textBox1.TabIndex = 1;
             // 
             // Form1
